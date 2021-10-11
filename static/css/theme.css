@@ -415,6 +415,10 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 #body-inner {
     margin-bottom: 5rem;
 }
+
+span.underline {
+                text-decoration: underline;
+            }
 #chapter {
     display: flex;
     align-items: center;
