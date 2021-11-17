@@ -1153,3 +1153,8 @@ pre .copy-to-clipboard:hover {
 option {
     color: initial;
 }
+
+.highlight pre {
+    background-color: #fefbec !important;
+}
+
