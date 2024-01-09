@@ -664,7 +664,7 @@ pre {
 }
 
 pre code {
-    color: whitesmoke;
+    color: gray;
     background: inherit;
     white-space: inherit;
     border: 0;
